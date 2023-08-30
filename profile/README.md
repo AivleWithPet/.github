@@ -1,4 +1,4 @@
-## BowWow
+## CoPET
 > **AIVLE SCHOOL AI 3기 'CoPET'** <br/> **개발기간: 2022.05 ~ 진행중**
 
 ## 프로젝트 소개
